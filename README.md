@@ -1,7 +1,7 @@
 # AngularVideosteam
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
-
+![Logo](https://github.com/mohammadmahdihasani/Angular-Videosteram/blob/master/src/demo.png)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
